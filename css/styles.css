@@ -150,3 +150,7 @@ body {
 .our-portfolio-list-item {
     list-style-type: none;
 }
+
+.address-title {
+    font-style: normal;
+}
